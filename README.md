@@ -1,2 +1,2 @@
 # Debloat-GoogleChrome
-The file is being tested, it may have errors, but they will be solved over time. it cost me a lot of work to do!
+The file creates it in order to squeeze all the possible performance and leave a much cleaner browser so that it is not a hindrance when playing
